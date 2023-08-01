@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1105187_sample.SampleScript</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>SampleScript</name>
+        <script/>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 07:36:45</sys_created_on>
+        <sys_id>f95841c397543110cdf8b3e6f053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SampleScript</sys_name>
+        <sys_package display_value="Sample" source="x_1105187_sample">9ab7058397543110cdf8b3e6f053af2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">9ab7058397543110cdf8b3e6f053af2f</sys_scope>
+        <sys_update_name>sys_script_include_f95841c397543110cdf8b3e6f053afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-01 07:36:45</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sample">9ab7058397543110cdf8b3e6f053af2f</application>
+        <file_path/>
+        <instance_id>11425302db0699589df22f17d496190f</instance_id>
+        <instance_name>dev135601</instance_name>
+        <name>sys_script_include_f95841c397543110cdf8b3e6f053afdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name>x_1105187_sample.SampleScript</api_name><caller_access/><client_callable>false</client_callable><description/><name>SampleScript</name><script/><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 07:36:45</sys_created_on><sys_id>f95841c397543110cdf8b3e6f053afdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SampleScript</sys_name><sys_package display_value="Sample" source="x_1105187_sample">9ab7058397543110cdf8b3e6f053af2f</sys_package><sys_policy/><sys_scope display_value="Sample">9ab7058397543110cdf8b3e6f053af2f</sys_scope><sys_update_name>sys_script_include_f95841c397543110cdf8b3e6f053afdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-01 07:36:45</sys_updated_on></sys_script_include></record_update>]]></payload>
+        <payload_hash>-126827974</payload_hash>
+        <record_name>SampleScript</record_name>
+        <reverted_from/>
+        <source>0748c58397543110cdf8b3e6f053af45</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 07:36:45</sys_created_on>
+        <sys_id>bbd9c50797543110cdf8b3e6f053afce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b00725250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-01 07:36:45</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>f3d9c50734543110dc3520d33af0c3ce</update_guid>
+        <update_guid_history>f3d9c50734543110dc3520d33af0c3ce:-126827974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 07:37:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>063de3183e2c46ba9148d1ec48fcf364</sys_id>
+        <sys_metadata>f95841c397543110cdf8b3e6f053afdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SampleScript</sys_name>
+        <sys_package display_value="Sample" source="x_1105187_sample">9ab7058397543110cdf8b3e6f053af2f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sample">9ab7058397543110cdf8b3e6f053af2f</sys_scope>
+        <sys_scope_delete display_value="">0cdb95613b3a46fe8bb2652de9a6e3f1</sys_scope_delete>
+        <sys_update_name>sys_script_include_f95841c397543110cdf8b3e6f053afdc</sys_update_name>
+        <sys_update_version display_value="sys_script_include_f95841c397543110cdf8b3e6f053afdc">bbd9c50797543110cdf8b3e6f053afce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-01 07:37:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
