@@ -1,8 +1,8 @@
 pipeline {
     agent any
     environment {
-        BRANCH = "${BRANCH_NAME}"
-        APPSYSID = 'ed47cebe97543110cdf8b3e6f053af37'
+        BRANCH = "main"
+        APPSYSID = 'be5e1d0b97943110cdf8b3e6f053afa8'
         CREDENTIALS = 'ServiceNow'
         DEVENV = 'https://dev135601.service-now.com/'
         TESTENV = 'https://dev135601.service-now.com/'
